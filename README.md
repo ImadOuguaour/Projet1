@@ -1,2 +1,2 @@
 # Projet1
-tp sur git pour se familariser 
+tp sur git pour se famillariser avec le github 

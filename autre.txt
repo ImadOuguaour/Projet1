@@ -1,2 +1,3 @@
 Ceci est un fichier txt de qualité
-Ceci est ajouté en ligne
+Ceci est ajouté en ligne 
+Ceci est une autre modification depuis ma machine locale

@@ -5,3 +5,4 @@ Ceci est une modif faite par Branch univ
 Ceci est ajouté par master
 Ceci est autre message de univ
 Ceci pour la branche master
+Ceci pour la gestion du conflit au niveau de univ 

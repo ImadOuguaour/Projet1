@@ -3,3 +3,4 @@ Ceci est ajouté en ligne
 Ceci est une autre modification depuis ma machine locale
 Ceci est une modif faite par Branch univ
 Ceci est autre message de univ
+Ceci pour la gestion du conflit au niveau de univ 
